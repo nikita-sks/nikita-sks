@@ -6,7 +6,8 @@ I'm involved with IEEE and FOSS communities at college, where I also work on the
 
 This GitHub is where I'm documenting what I build and learn along the way.
 
-## 🌱 Currently learning : DSA, Java
+## 🌱 Currently learning : 
+                           DSA → OOP → AI/ML
 ## 🏆 Community & roles :
                          Media & Publicity Team - FOSS Club LBSITW,
                          OSCI'26 Campus Lead & Community Partner, 
