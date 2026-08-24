@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi, I am Nikita👋
 
-<!--
-**nikita-sks/nikita-sks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Nikita, a second-year Computer Science student. I'm currently figuring things out, learning, building projects, and trying to become a better developer one commit at a time.
 
-Here are some ideas to get you started:
+I'm involved with IEEE and FOSS communities at college, where I also work on the creative side of things through video editing and media. Outside of that, I'm exploring DSA, development, open source, and gradually finding my direction in AI/ML.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This GitHub is where I'm documenting what I build and learn along the way.
+
+-🌱 Currently learning: DSA, Java
+-🏆 Community & roles : Media & Publicity Team - FOSS Club LBSITW, OSCI'26 Campus Lead & Community Partner, 
+                         IEEE SB LBSITW - Video Team.
+- 📧 Contact: Gmail - sk.nikita07@gmail.com / LinkedIn- https://in.linkedin.com/in/nikita-sk-a1b2c3
+  
