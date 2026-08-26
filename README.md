@@ -1,4 +1,4 @@
-## Hi, I am Nikita👋
+## Hi, I am Nikita.
 
 Hi, I'm Nikita, a second-year Computer Science student. I'm currently figuring things out, learning, building projects, and trying to become a better developer one commit at a time.
 
